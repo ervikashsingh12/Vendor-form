@@ -1,0 +1,15 @@
+package com.test.vikash;
+
+import java.util.*;
+import java.util.Collections;
+
+public class TripletSum {
+
+	public static void main(String[] args) {
+
+		List<Integer> list = new ArrayList<>();
+		Collections.addAll(list, 1, 2, 3, 4, 5);
+    
+	}
+
+}
